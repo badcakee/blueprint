@@ -24,3 +24,4 @@ USERSHELL="/bin/bash";' > $PTERODACTYL_DIRECTORY/.blueprintrc
 chmod +x $PTERODACTYL_DIRECTORY/blueprint.sh
 
 bash $PTERODACTYL_DIRECTORY/blueprint.sh
+clear && echo ✅ Successfully Installed Bleuprint!
